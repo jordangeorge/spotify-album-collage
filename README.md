@@ -7,6 +7,10 @@
   - Jupyter Notebook that creates the college
 - collage.jpeg
   - An example collage
+- aws
+  - collage.jpeg
+  - aws_collage.ipynb
+    - Jupyter Notebook that creates the college. Saves files in AWS S3 instead of locally.
 
 ### About
 A program that creates an image collage from album covers from recently saved Spotify songs.
@@ -18,17 +22,5 @@ This took about under a day in real time because I wasn't familiar with the PIL 
 ### Current Functionality
 - User can generate a basic collage in the notebook
 
-### Future Features
-- Clean up some variables and hard coded numbers
-- Include instructions on how to run notebook
-- Collage based on colors
-  - So, if a user selects a particular color it will make all the images mainly feature that color making the entire collage primarily be that color as well
-  - Color picker
-- Web application
-  - Expectations
-    - User can choose to use playlist or saved songs/albums
-    - User can choose number of images for rows and columns
-    - User can choose color
-    - Code creates the collage
-    - Code shows the collage
-    - User can export the collage
+### Instructions on Using Jupyter Notebook
+- Run `jupyter notebook collage.ipynb` in command line
