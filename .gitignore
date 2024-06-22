@@ -1,4 +1,12 @@
 *.DS_Store
 *.cache*
 *.ipynb_checkpoints
+*node_modules
 images/
+*.cloud
+notes/
+*__pycache__*
+sort-by-color/iphone_app_icon-master/*
+
+node-app/
+django-app/
