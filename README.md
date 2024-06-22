@@ -1,6 +1,6 @@
 # Spotify Album Collage
 
-![Image collage](collage.jpeg)
+![Image collage](collages/collage.jpeg)
 
 ### Contents
 - collage.ipynb
