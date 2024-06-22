@@ -2,11 +2,11 @@
 *.cache*
 *.ipynb_checkpoints
 *node_modules
-*/images/
+images/
 *.cloud
 notes/
 *__pycache__*
-*/sort-by-color/iphone_app_icon-master/*
+sort-by-color/iphone_app_icon-master/*
 
 node-app/
 django-app/
