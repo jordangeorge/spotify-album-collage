@@ -1,3 +1,3 @@
 # Spotify Album Collage
 
-![Image collage](collages/collage.jpeg)
+![Image collage](notebooks/collages/collage.jpeg)
