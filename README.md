@@ -26,4 +26,7 @@ The first iteration took about under a day in real time because I wasn't familia
   - SPOTIFY_CLIENT_SECRET
   - SPOTIFY_REDIRECT_URI
   - SPOTIFY_USERNAME
+  - If using AWS notebooks:
+      - AWS_ACCESS_KEY_ID
+      - AWS_SECRET_ACCESS_KEY
 - Run `jupyter notebook collage.ipynb` in command line
