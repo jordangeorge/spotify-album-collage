@@ -4,10 +4,10 @@
 
 ### Contents
 - collage.ipynb
-  - Jupyter Notebook that creates the college
+  - Jupyter Notebook that creates the collage
   - Saves files locally
 - collage-aws.ipynb
-  - Jupyter Notebook that creates the college
+  - Jupyter Notebook that creates the collage
   - Saves files in an AWS S3 bucket
 
 ### About
